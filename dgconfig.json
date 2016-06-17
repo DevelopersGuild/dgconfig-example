@@ -1,0 +1,25 @@
+{
+  "config": {
+    "config_date": "Spring 2016",
+    "config_description": "This repository is an example how to use a dgconfig.json file for your project.",
+    "config_images": [
+      "https://www.developersguild.io/img/dglogo.svg",
+      "https://www.developersguild.io/img/projects/1x1/Wraithkeeper's%20Tomb.jpg"
+    ],
+    "config_tags": [
+      "tag1",
+      "tag2",
+      "tag3"
+    ],
+    "contributors": [
+      {
+        "config_full_name": "John Doe",
+        "config_role": "Frontend Developer"
+      },
+      {
+        "config_full_name": "Jane Doe",
+        "config_role": "Backend Developer"
+      }
+    ]
+  }
+}
